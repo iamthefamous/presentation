@@ -1,5 +1,7 @@
 # ToiPlan 🎉: seating toi guests with a Genetic Algorithm
 
+**Team:** Asylbek Zhunusov, Emir Sakiev
+
 > 100 guests, 10 tables, 25 family feuds, and every elder expects a seat at the tör.
 
 At a **toi** (a big Kyrgyz celebration) someone has to decide **who sits at which table**.
