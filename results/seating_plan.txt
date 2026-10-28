@@ -1,0 +1,110 @@
+Tor (table 1):
+  - Zhyldyz Ryskulova (elder)
+  - Bermet Osmonova (elder)
+  - Saltanat Turdubaeva (elder)
+  - Emil Abdyldaev (elder)
+  - Aibek Zhumabaev (elder)
+  - Daniyar Nurmatov (elder)
+  - Bakyt Kasymov (elder)
+  - Cholpon Zhumabaeva
+  - Begaiym Omurbekova (elder)
+  - Nurlan Moldobaev
+Table 2:
+  - Akylbek Nurmatov
+  - Zarina Nurmatova
+  - Samat Nurmatov
+  - Ainura Nurmatova
+  - Kanat Omurbekov
+  - Kanat Nurmatov
+  - Emil Omurbekov
+  - Azamat Omurbekov
+  - Ermek Nurmatov
+  - Timur Omurbekov
+Table 3:
+  - Almaz Abdyldaev
+  - Kubat Abdyldaev
+  - Aizada Abdyldaeva
+  - Bakyt Abdyldaev
+  - Dinara Abdyldaeva
+  - Nurbek Moldobaev
+  - Cholpon Abdyldaeva
+  - Kanat Moldobaev
+  - Gulnara Moldobaeva
+  - Bermet Abdyldaeva
+Table 4:
+  - Nurlan Turdubaev
+  - Nurbek Turdubaev
+  - Elmira Asanova
+  - Meerim Turdubaeva
+  - Kanat Turdubaev
+  - Begaiym Asanova
+  - Talant Asanov
+  - Aizada Sultanova
+  - Gulnara Sultanova
+  - Askar Sultanov
+Table 5:
+  - Samat Isakov
+  - Bermet Isakova
+  - Ermek Isakov
+  - Samat Sultanov
+  - Elmira Isakova
+  - Aigul Sultanova
+  - Islam Isakov
+  - Kanykei Isakova
+  - Elmira Sultanova
+  - Akylbek Isakov
+Table 6:
+  - Askar Ryskulov
+  - Jamila Toktorova
+  - Begaiym Toktorova
+  - Dinara Toktorova
+  - Timur Toktorov
+  - Zhyldyz Toktorova
+  - Tolkun Ryskulova
+  - Azamat Toktorov
+  - Kubat Ryskulov
+  - Meerim Toktorova
+Table 7:
+  - Aigul Osmonova
+  - Bektur Moldobaev
+  - Askar Usenov
+  - Meerim Osmonova
+  - Saltanat Osmonova
+  - Bermet Usenova
+  - Bektur Osmonov
+  - Samat Osmonov
+  - Asel Osmonova
+  - Chingiz Usenov
+Table 8:
+  - Dinara Bekmuratova
+  - Saltanat Alymkulova
+  - Nurlan Alymkulov
+  - Nurbek Alymkulov
+  - Dinara Alymkulova
+  - Asel Bekmuratova
+  - Gulzat Bekmuratova
+  - Gulzat Alymkulova
+  - Zarina Alymkulova
+  - Islam Alymkulov
+Table 9:
+  - Emil Mamatov
+  - Elmira Mamatova
+  - Zhyldyz Zhumabaeva
+  - Talant Mamatov
+  - Dinara Zhumabaeva
+  - Samat Mamatov
+  - Timur Zhumabaev
+  - Aigul Mamatova
+  - Begaiym Zhumabaeva
+  - Tolkun Zhumabaeva
+Table 10:
+  - Kanat Satybaldiev
+  - Azamat Kasymov
+  - Timur Sydykov
+  - Bektur Sydykov
+  - Ainura Sydykova
+  - Nurbek Satybaldiev
+  - Akylbek Sydykov
+  - Emil Kasymov
+  - Samat Sydykov
+  - Emil Satybaldiev
